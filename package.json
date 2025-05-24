@@ -1,0 +1,15 @@
+{
+    "name": "@marisa",
+    "description": "Alguns utilitários pessoais utilizados entre vários projetos",
+    "keywords": [],
+    "author": "Marisa Vanessa N. Cruz <ideiaselembrancas@gmail.com> (https://marisa.eti.br)",
+    "license": "ISC",
+    "repository": {
+      "type": "git",
+      "url": "url-do-github"
+    },
+    "bugs": {
+      "url": "url-do-github"
+    },
+    "homepage": "url"
+  }
